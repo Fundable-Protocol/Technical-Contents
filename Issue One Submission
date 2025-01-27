@@ -1,0 +1,43 @@
+Here is a link to my submission to the issue I applied to: https://docs.google.com/document/d/1sfRXNym1DsRzmHTBGNo50yqb70DnTNgSs_fiwEUBzOo/edit?usp=sharing
+
+Here is the text content, there is a better format in the document. 
+
+How to Use Fundable: A Comprehensive Guide for Beginners
+ 
+If you're reading this, chances are you're curious about how to use our platform to analyze and simulate tokens.
+This short but detailed guide is here to walk you through the basics and help you get the most out of the Fundable Finance Platform. But before we dive in, let’s start with the essentials:
+ 
+What is Fundable Finance?
+Fundable is a powerful dApp in the decentralized funding ecosystem. It is designed to support innovative projects with various means. In this tutorial, we will walk users through four of its major features: Airdrop, Retroactive Funding, Quadratic Funding, and Streaming-soon. This beginner's guide will go into step-by-step instructions through each particular action, explain the key concepts, and give practical examples so that using Fundable would be easy.
+ 
+Why Fundable Matters
+Fundable makes decentralized funding easy by providing transparent, secure, and efficient ways of distributing funds. Whether rewarding contributors, community projects, or experimenting with new models of innovative funding, succeed with the tools provided by Fundable.
+ 
+Step-by-Step Guide
+Now, let’s dive into the key features available on the Fundable Finance Platform and how to use them effectively:
+If you're looking to distribute tokens seamlessly, the Fundable Finance Platform makes it simple and efficient. To get started, you need to have an account with one of the starknet compatible wallets(Argent, Braavos, Keplr). If you don’t have an account with any of these you’ll need to create an account with any of them. Create an account with Argent, Braavos and Keplr:
+
+Step 1: Connect Your Wallet to Fundable Finance Platform
+Visit the Fundable Finance Platform website and click on the “Connect Wallet” button.
+Select Argent Starknet Wallet from the list of supported wallets.
+A prompt will appear asking you to authorize the connection. Confirm the request in your wallet (either on your phone or browser extension).
+Once connected, your account on the Fundable Finance Platform will be ready to use!
+
+Step 2: Distribute Tokens
+Now that your wallet is connected, you can start distributing tokens:
+Navigate to the “Token Distribution” section on the platform.
+Upload the list of recipient addresses and the corresponding token amounts.
+You can select the token you want to distribute by clicking on the “Select Token” box here, and it’ll show the available tokens, select the one you want to distribute and insert the amount you’ll be sending.
+ 
+Distribution Type
+On the Fundable Finance Platform, you can choose how to distribute tokens by selecting either Equal or Weighted distribution.
+Equal Distribution: This means every person on your list gets the same amount of tokens. It’s great for things like airdrops or giving everyone an equal reward.
+Weighted Distribution: This lets you give different amounts to different people. For example, some might get more tokens based on their contribution or role.
+ 
+To use this, just go to the token distribution section, upload your list of recipients, and pick the option that works best for you. If you choose Weighted, you’ll need to say how much each person gets. person gets. Click “Add Row” to add a line for an address and amount you want sent to it. Once you’re done, click on “Distribute Token” to confirm the distribution, and you’re all set!
+
+Review the details and confirm the transaction. Your wallet will prompt you to approve the transaction, confirm it, and the tokens will be distributed.
+By following this guide, users can leverage Fundable’s features to optimize decentralized funding efforts, ensuring both transparency and efficiency. For further assistance, refer to the provided resources or reach out to the Fundable community.
+ 
+By offering a decentralized, transparent, and highly efficient tool for token distribution, the Fundable Finance Platform is becoming a must-have resource for project teams, investors, and other stakeholders who want to manage token allocations with ease and confidence.
+We hope this quick guide helps you navigate the platform and unlock its full potential. For more details about the Fundable Finance Platform, visit https://www.fundable.finance/
