@@ -1,0 +1,163 @@
+Here is a link to my submission to the issue I applied to: https://docs.google.com/document/d/1ddM108IoB5VUH5mS75hT69LcTO1BnhMxpInDr2Orjq8/edit?usp=sharing
+
+Here is the text content, there is a better format in the document. 
+
+Why Fundable Beats Custom Vesting Contracts (And Saves Your Sanity)
+Let’s face it, managing token vesting is like trying to assemble custom furniture without the instructions. It’s frustrating, time-consuming, and a recipe for disaster.
+Custom contracts? They’re the nightmare of crypto. They drain your resources, take forever to develop, and one small mistake can send your entire project into chaos. It’s the equivalent of building a rocket ship just to cross the street; overkill, fragile, and highly prone to failure.
+But what if there was a better way?
+The Problem: Custom Contracts Are a Hot Mess
+Picture this: you spend weeks—and thousands of dollars—building a custom vesting system. The finish line is in sight, and then you realize:
+Your dev team missed a critical bug, and now a loophole has been exploited. Poof! There go your tokens.
+Your investors panic-sell their entire allocation on day one, causing your token price to plummet. Your community, seeing an opportunity to cash out immediately, disappears overnight, leaving your project lifeless.
+A poorly executed vesting system can spell disaster for any crypto project. Whether it’s security vulnerabilities, unexpected sell-offs, or just an inefficient process, the risks far outweigh the benefits of a custom contract.
+The Fix: Fundable Does the Heavy Lifting
+This is where Fundable changes the game. It’s a seamless, stress-free solution for token vesting, no coding, no audits, no migraines. Instead of drowning in smart contract complexities, Fundable offers a sleek, intuitive platform that lets you focus on what truly matters: building and growing your project.
+ 
+With Fundable, you can:
+Put an End to Token Dumps & Panic Selling
+Token unlocks happen gradually, like a monthly allowance. No more fears of sudden sell-offs, rug pulls, or price implosions. Your project remains stable, and your community stays engaged instead of cashing out at the first opportunity.
+Turn Casual Holders into Loyal Superfans
+When token holders know they’ll keep earning over months (or even years), they’re more likely to stick around. They become long-term supporters, excited about the future of your project. Suddenly, they’re not just investors—they’re advocates, spreading the word and fueling your growth like TikTok influencers chasing clout.
+Automate Everything
+No more manual calculations, spreadsheet nightmares, or constant contract babysitting. Just set your vesting rules, upload a wallet list, and let Fundable handle the rest. Your time is too valuable to be spent micromanaging token distributions, and with Fundable, you don’t have to.
+Why Fundable is Better Than Custom Contracts
+Saves Time, Money, and Brain Cells
+Fundable is built for simplicity. The drag-and-drop interface makes setting up vesting schedules so easy that even a dog could do it—if they had opposable thumbs. Just pick your timeline, upload wallet addresses, click a button, and you’re done.
+And let’s talk cost. Custom contracts can set you back thousands of dollars in development and audits. Fundable? It costs less than your daily coffee habit. Save your budget for things that actually matter.
+Security Even Banks Would Envy
+When it comes to crypto, security isn’t optional. Fundable’s contracts undergo rigorous audits, more scrutinized than a viral conspiracy theory. You can sleep easy knowing your tokens are protected from hackers and exploits.
+Scales with Your Ambitions
+Whether you’re managing vesting for a small team or thousands of investors, Fundable grows with you. Custom contracts? They struggle to keep up. They’re like a cookie in a toddler’s fist—falling apart under pressure.
+How It Works
+Create Your Vesting Plan
+Upload a spreadsheet of wallet addresses and token amounts. Fundable even provides a template. Choose your vesting rules, whether it’s a two-year cliff, quarterly unlocks, or a custom schedule that fits your needs. Then, hit launch.
+Let Your Team and Investors Claim
+Once the vesting plan is live, recipients simply log in, connect their wallets, and watch their tokens stream in. No coding, no chaos, just smooth and seamless distributions.
+Track Progress Like a Pro
+Forget guessing games and messy spreadsheets. Fundable’s dashboard provides real-time vesting stats, so you can monitor distributions effortlessly and keep stakeholders informed.
+When Fundable Shines
+Employee Rewards
+Want to incentivize long-term commitment? Fundable allows you to lock in employee loyalty by vesting tokens over time. Think of it as a performance-based system: hit the deadline, tokens unlock. Miss it, better luck next quarter.
+Investor Handouts
+Venture capitalists and early investors don’t like uncertainty. With Fundable, they can track vesting schedules in real-time, eliminating the need for constant “Where’s my crypto?!” emails at 3 a.m.
+Community Rewards
+Engaged communities are the backbone of any successful crypto project. Instead of letting Discord lurkers vanish after an airdrop, Fundable ensures they stay involved with fair and transparent token distributions over time.
+Ditch the Drama, Choose Fundable
+With Fundable, you get a no-stress, no-mess solution that stops token dumps before they happen, builds loyal communities who stick around, saves you money by eliminating expensive contract development, and locks down security so you never have to worry about exploits.
+Stop wasting time and money on complex custom contracts. Let Fundable take care of the heavy lifting while you focus on what really matters, changing the crypto game.
+Ready to vest like a pro?
+Try Fundable today at www.Fundable.finance
+Your future self and your community will thank you.
+No code. No chaos. Just vesting that works.
+
+What is Fundable Finance?
+Fundable is a powerful decentralized application (dApp) designed to streamline token distribution through airdrops, retroactive funding, quadratic funding, and streaming. This guide focuses on airdrop distribution, ensuring a smooth and efficient process for rewarding community members and contributors.
+Why Fundable Matters
+Fundable makes decentralized funding simple, transparent, and secure. Whether you’re rewarding early adopters, distributing governance tokens, or incentivizing participation, Fundable provides the necessary tools to ensure seamless airdrop allocations.
+Step-by-Step Guide to Airdrop Distribution
+Step 1: Connect Your Wallet
+Before distributing tokens, ensure you have a Starknet-compatible wallet. Fundable supports:
+Argent
+Braavos
+Keplr
+To connect your wallet:
+Visit the Fundable Finance Platform.
+Click on “Connect Wallet”.
+Select your preferred wallet from the list.
+Authorize the connection via your wallet app or browser extension.
+Once connected, your account is ready to use.
+Step 2: Upload the Airdrop List
+Now that your wallet is connected, you can proceed with token distribution:
+Navigate to the “Airdrop Distribution” section.
+Upload a CSV file containing recipient addresses and corresponding token amounts.
+Select the token to distribute from the “Select Airdrop” dropdown menu.
+Enter the total amount of tokens to be distributed.
+Step 3: Choose Airdrop Distribution Type
+Fundable offers two distribution methods:
+Equal Distribution: Each recipient receives the same amount of airdrop. This is ideal for airdrops and equal reward programs.
+Weighted Distribution: Recipients receive different airdrop amounts based on contributions, engagement and other criteria.
+This distribution can also be scheduled: Fundable finance only execute Airdrop distributions on a scheduled date by the distributor.
+To configure:
+Choose Equal or Weighted distribution.
+If using Weighted Distribution, specify the token amount for each recipient.
+Use the “Add Row” option to manually adjust allocations if necessary.
+Step 4: Confirm and Execute Airdrop
+Review the distribution details.
+Click “Distribute Airdrop” to initiate the transaction.
+Approve the transaction in your wallet.
+Tokens will be distributed to recipients automatically.
+By following these steps, you can efficiently manage airdrop distributions on the Fundable Finance Platform. With its decentralized, transparent, and secure approach, Fundable is an essential tool for project teams, investors, and community managers looking to optimize Airdrop distribution.
+
+Introducing Token Streams: A Revolutionary Way to Distribute Tokens on Fundable Finance
+
+Vest your token airdrop seamlessly with Fundable!
+
+Token Streams. Sounds innovative, doesn’t it? At Fundable Finance, we’re thrilled to introduce a groundbreaking mechanism designed to transform how token distributions are handled. Over the past several months, we’ve meticulously developed a solution that ensures long-term alignment between projects and their communities. Let’s dive into how it works and the unique benefits it brings to the table.
+Before we begin, here’s the best part: Token Streams on Fundable Finance are entirely free to use. You only pay for gas costs-no hidden fees, no surprises.
+The Problem with Traditional Token Distribution
+Token distributions, especially airdrops, have become a staple in the crypto world. They’re a popular way to introduce new tokens, reward early adopters, and build a community. However, traditional methods have significant flaws such as:
+Short-Term Thinking: Most recipients claim tokens only to sell them immediately, leading to price volatility and a lack of long-term commitment.
+Community Disengagement: One-time distributions often fail to incentivize community members to stay engaged with the project.
+Price Dumping: Sudden influxes of tokens into the market can cause prices to crash and as a result, harming the project’s stability.
+These issues highlight the need for a better way to distribute tokens, one that fosters long-term thinking and aligns the interests of the community with the project’s success.
+The Solution: Token Streams by Fundable Finance
+Token Streams is our end-to-end solution for vesting token distributions. Instead of releasing all tokens at once, recipients receive them gradually over time through on-chain streams. This approach ensures that community members remain engaged and invested in the project’s future.
+Here’s how it works:
+Customizable Vesting Periods: You can set the duration of the token streams to days, weeks, months, or even years. For example, you could distribute tokens over 4 years or 6 months—it’s entirely up to you.
+Long-Term Incentives: By receiving tokens gradually, community members are encouraged to think long-term and prioritize the project’s success.
+Price Stability: Gradual distribution prevents sudden market dumps, ensuring a more stable token price.
+How Token Streams Work on Fundable Finance
+Creating a token stream campaign on Fundable Finance is simple and efficient:
+Upload a CSV File: Provide a list of recipient addresses and their allocated amounts using our intuitive interface. Our system supports campaigns with up to 50,000 recipients.
+Deploy the Campaign: Fundable Finance generates a smart contract with a Merkle tree to manage the distribution. Streams are created only when recipients claim their tokens.
+Recipients Claim Their Tokens: Each recipient pays the gas fees to create and start their stream, saving you significant costs.
+Track and Withdraw: Recipients receive a unique payment link to track and withdraw their tokens over time.
+Key Features of Token Streams
+Gas Efficiency: Recipients cover the gas fees for claiming their streams, making large-scale distributions cost-effective for project creators.
+Flexible Funding: You can deploy the campaign now and fund it later, giving you full control over timing and resources.
+Unclaimed Token Recovery: Set an expiration date for your campaign to reclaim unclaimed tokens, ensuring no resources are wasted.
+Security and Reliability: Built on Fundable Finance’s robust infrastructure, Token Streams are secure, decentralized, and audited by leading experts.
+Why Choose Token Streams?
+Token Streams are more than just a distribution mechanism, they’re a way to build a stronger, more committed community. By aligning incentives and promoting long-term thinking, Token Streams ensure that your project thrives well beyond the initial launch.
+Ready to Get Started?
+Create Your Campaign: Visit the Fundable Finance interface here to set up your Token Stream campaign.
+Have Questions? Reach out to us on Telegram, Discord or Twitter—we’re here to help!
+
+What is Fundable Finance?
+Fundable is a powerful decentralized application (dApp) designed to streamline token distribution through airdrops, retroactive funding, quadratic funding, and streaming. This guide focuses on airdrop distribution, ensuring a smooth and efficient process for rewarding community members and contributors.
+Why Fundable Matters
+Fundable makes decentralized funding simple, transparent, and secure. Whether you’re rewarding early adopters, distributing governance tokens, or incentivizing participation, Fundable provides the necessary tools to ensure seamless airdrop allocations.
+Step-by-Step Guide to Airdrop Distribution
+Step 1: Connect Your Wallet
+Before distributing tokens, ensure you have a Starknet-compatible wallet. Fundable supports:
+Argent
+Braavos
+Keplr
+To connect your wallet:
+Visit the Fundable Finance Platform.
+Click on “Connect Wallet”.
+Select your preferred wallet from the list.
+Authorize the connection via your wallet app or browser extension.
+Once connected, your account is ready to use.
+Step 2: Upload the Airdrop List
+Now that your wallet is connected, you can proceed with token distribution:
+Navigate to the “Airdrop Distribution” section.
+Upload a CSV file containing recipient addresses and corresponding token amounts.
+Select the token to distribute from the “Select Airdrop” dropdown menu.
+Enter the total amount of tokens to be distributed.
+Step 3: Choose Airdrop Distribution Type
+Fundable offers two distribution methods:
+Equal Distribution: Each recipient receives the same amount of airdrop. This is ideal for airdrops and equal reward programs.
+Weighted Distribution: Recipients receive different airdrop amounts based on contributions, engagement and other criteria.
+This distribution can also be scheduled: Fundable finance only execute Airdrop distributions on a scheduled date by the distributor.
+To configure:
+Choose Equal or Weighted distribution.
+If using Weighted Distribution, specify the token amount for each recipient.
+Use the “Add Row” option to manually adjust allocations if necessary.
+Step 4: Confirm and Execute Airdrop
+Review the distribution details.
+Click “Distribute Airdrop” to initiate the transaction.
+Approve the transaction in your wallet.
+Tokens will be distributed to recipients automatically.
+By following these steps, you can efficiently manage airdrop distributions on the Fundable Finance Platform. With its decentralized, transparent, and secure approach, Fundable is an essential tool for project teams, investors, and community managers looking to optimize Airdrop distribution.
