@@ -1,0 +1,41 @@
+What Is Fundable Finance Platform?  
+
+Fundable Finance Platform is a powerful on-chain token distribution protocol designed to simplify and streamline the process of distributing tokens. Here’s a breakdown of its key components:  
+
+The Fundable Finance Protocol: A collection of secure, non-upgradeable smart contracts that enable seamless streaming and distribution of ERC-20 tokens on Ethereum and other EVM-compatible blockchains. The protocol includes features like Lockup, Merkle Airdrops, and Flow to cater to various token distribution needs.
+
+The Fundable Finance Interface: A user-friendly web interface that makes it easy to interact with the Fundable Finance Protocol. While the interface is a convenient option, the protocol itself can be accessed in many other ways.  
+
+Fundable Finance Labs: The team behind the development of the Fundable Finance Protocol, the interface, and the documentation you’re reading right now.  
+
+Fundable Finance Protocol  
+The Fundable Finance Protocol is a decentralized software system built on Ethereum smart contracts. It’s designed to facilitate the secure and efficient distribution of ERC-20 tokens. The protocol uses persistent, non-upgradeable smart contracts that prioritize security, transparency, self-custody, and censorship resistance. This ensures that users can distribute tokens without relying on intermediaries or worrying about restrictions.  
+
+Currently, the Fundable Finance Protocol consists of three core systems:  
+Lockup: Handles token vesting and vested airdrops.  
+Merkle Airdrops: Enables efficient and verifiable on-chain airdrops.  
+Flow: Designed for payroll, grants, and other continuous payment needs.  
+
+Most of these components are licensed under BUSL-1.1, with some parts under GPL v3. You can explore the source code on Fundable Finance’s GitHub account and dive deeper into the technical details in the Technical References section of the documentation.  
+
+As long as Ethereum and other EVM chains exist, every version of the Fundable Finance Protocol will continue to operate without interruption, guaranteeing 100% uptime.  
+
+How Does Fundable Finance Differ from Traditional Payment Systems?  
+To understand what makes Fundable Finance unique, let’s compare its permissionless nature and streaming capabilities to traditional payment systems.  
+
+Permissionless Systems  
+Fundable Finance is built on the principles of open access and immutability, inspired by Ethereum’s foundational ideas and the core values of decentralized finance (DeFi). These principles aim to create a future where financial services are accessible to everyone, regardless of location or economic status, without the risks of censorship or counterparty dependency.  
+
+The protocol is permissionless, meaning anyone can use it without restrictions. Users can create new token streams with any ERC-20 token or interact with existing streams freely. This is a stark contrast to traditional financial systems, which often impose barriers based on geography, financial status, or age.  
+
+As an immutable system, the Fundable Finance Protocol is non-upgradeable. No one can pause the contracts, reverse transactions, or alter user streams. This ensures transparency, security, and resistance to manipulation.  
+
+Streaming vs. Conventional Payments  
+Traditional payment systems typically rely on lump-sum transfers, which require trust between parties, are slow, and are prone to errors. Bank transfers, for example, often come with high fees and delays due to intermediaries.  
+
+Fundable Finance introduces token streaming, a revolutionary approach that enables continuous, real-time payments on a per-second basis. This eliminates friction, increases financial flexibility, and unlocks new opportunities for businesses, individuals, and organizations. With Fundable Finance, the passage of time itself becomes the trust mechanism, enabling innovative financial models that were previously impossible.  
+
+Think of streaming as “real-time finance” or “continuous finance,” while traditional payments can be seen as “discrete finance.”  
+
+Where Can I Find More Information?  
+For more details about the Fundable Finance Protocol, its features, and potential use cases, explore this documentation site or visit the official Fundable Finance website.
