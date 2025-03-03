@@ -1,5 +1,3 @@
-**Here is the README with GitHub-compatible formatting:**
-
 **Fundable Documentation and Design**
 This repository contains the documentation and design assets for Fundable.
 
